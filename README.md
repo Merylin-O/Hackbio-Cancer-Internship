@@ -1,28 +1,21 @@
-**AlphaFold**
+# **AlphaFold**
 
 Github Repository: [_https://github.com/Merylin-O/Hackbio-Cancer-Internship_](https://github.com/Merylin-O/Hackbio-Cancer-Internship)
 
  
 
-**A BRIEF INTRODUCTION ON ALPHAFOLD**
-
+## **A BRIEF INTRODUCTION ON ALPHAFOLD**
 The field of molecular biology has undergone a remarkable change with the advancement of technologies, including the introduction of different tools that have revolutionized the field of genomics, proteomics, and structural biology (Forero & Chand & 2023; Koff _et al._, 2023). One of the most significant breakthroughs is the introduction of several bioinformatics tools that have enabled the accurate interpretation and analysis of genomic data, which is important in various applications, such as drug discovery, disease diagnosis, disease prevention, and personalized medicine. AlphaFold, an artificial intelligence program developed by DeepMind, is one of the most remarkable tools in this field (AlQuraishi, 2019). It was developed as an entry for the 13th Critical Assessment of Protein Structure Prediction (CASP3) competition.
 
- 
+## **PROTEIN STRUCTURE PREDICTION**
+Proteins are complex structures made of amino acid residues that are joined together by peptide bonds. Their 3D structure allows them to perform different functions. To achieve this structure, proteins fold into various conformations. Prediction of protein structures is a significant part and challenge of structural biology. The prediction of protein structures has been ongoing since the 1900s, when the prediction of the secondary structure of proteins began in 1951 by Pauling and Corey (Yang _et al_., 2016). Before the development of several algorithms to improve protein structure prediction, protein structures were predicted using X-ray, nuclear magnetic resonance, and electron cryomicroscopy. However, these methods were not sufficient due to the huge amount spent to predict proteins, the time consumption, and the large number of protein sequences available (Bertoline _et al_., 2023).
 
-**PROTEIN STRUCTURE PREDICTION**Proteins are complex structures made of amino acid residues that are joined together by peptide bonds. Their 3D structure allows them to perform different functions. To achieve this structure, proteins fold into various conformations. Prediction of protein structures is a significant part and challenge of structural biology. The prediction of protein structures has been ongoing since the 1900s, when the prediction of the secondary structure of proteins began in 1951 by Pauling and Corey (Yang _et al_., 2016). Before the development of several algorithms to improve protein structure prediction, protein structures were predicted using X-ray, nuclear magnetic resonance, and electron cryomicroscopy. However, these methods were not sufficient due to the huge amount spent to predict proteins, the time consumption, and the large number of protein sequences available (Bertoline _et al_., 2023).
-
- 
-
-**EVOLUTION OF ALPHAFOLD**
-
+## **EVOLUTION OF ALPHAFOLD**
 AlphaFold uses a novel machine learning approach that leverages large datasets of protein structures, incorporating physical and biological knowledge (Jumper _et al_., 2021). The output result gives a highly accurate prediction of the 3D structure of the input protein, which is often indistinguishable from experimental structures (Lupas _et al_., 2021; Marcu _et al_., 2022).
 
-****Since the development of the AlphaFold algorithm, there have been evolutionary changes in the model, including the introduction of AlphaFold 2 and the recent release of AlphaFold 3 (Abramson _et al_., 2024). These updated versions have higher accuracy in predictions. Additionally, the AlphaFold Protein Database has been introduced, containing over 350,000 predicted protein structures across 21 proteomes (Varadi _et al_., 2021). This makes different predicted protein structures readily available.
+Since the development of the AlphaFold algorithm, there have been evolutionary changes in the model, including the introduction of AlphaFold 2 and the recent release of AlphaFold 3 (Abramson _et al_., 2024). These updated versions have higher accuracy in predictions. Additionally, the AlphaFold Protein Database has been introduced, containing over 350,000 predicted protein structures across 21 proteomes (Varadi _et al_., 2021). This makes different predicted protein structures readily available.
 
- 
-
-**CONCLUSION**
+## **CONCLUSION**
 
 In conclusion AlphaFold has transformed the field of protein structure prediction, achieving remarkable accuracy and speed. With its ability to predict protein structure at such high scale, it can create new avenues for research. As the tool continues to grow, it will provide breakthroughs in our understanding of genomics, proteomics, and structural biology.
 
@@ -32,7 +25,7 @@ In conclusion AlphaFold has transformed the field of protein structure predictio
 
 ****
 
-**References**
+# **References**
 
 Abramson, J., Adler, J., Dunger, J., Evans, R., Green, T., Pritzel, A., Ronneberger, O., Willmore, L., Ballard, A. J., Bambrick, J., Bodenstein, S. W., Evans, D. A., Hung, C.-C., O’Neill, M., Reiman, D., Tunyasuvunakool, K., Wu, Z., Žemgulytė, A., Arvaniti, E., & Beattie, C. (2024). Accurate structure prediction of biomolecular interactions with AlphaFold 3. _Nature_, _630_, 1–3. https\://doi.org/10.1038/s41586-024-07487-w
 
